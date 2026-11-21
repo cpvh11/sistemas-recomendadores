@@ -1,0 +1,8 @@
+# Datos (credits.csv pesa ~190 MB y GitHub no acepta archivos de más de 100 MB)
+data/*.csv
+data/*.zip
+venv/
+.venv/
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
